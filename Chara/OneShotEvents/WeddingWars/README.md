@@ -1,4 +1,4 @@
 # Wedding Wars
 Wedding Wars was a event with a Bride theme, it started on May 31, 2024.
 
-![wedding-wars](https://github.com/user-attachments/assets/c3d73b9c-71b4-4882-a040-18358c699657)
+![image](https://github.com/user-attachments/assets/08632438-db70-4d62-a451-093c6a6749b2)
