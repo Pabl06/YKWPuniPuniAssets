@@ -1,4 +1,4 @@
-#
+# That Time I Got Reincarnated as a Slime
 That Time I Got Reincarnated as a Slime, also known as Regarding Reincarnated to Slime and by the contraction TenSura, is a Japanese fantasy light novel series written by Fuse, and illustrated by Mitz Vah.
 It collabed with the game [Yo-kai Watch Puni Puni] for the first time on August 1, 2024.
 
