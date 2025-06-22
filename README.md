@@ -2,7 +2,7 @@
 Assets from the game "Yo-kai Watch Puni Puni"
 
 <p align="center">
-<img src=https://s.nhn-playart.com/smartgame/spn/games/yokai-punipuni/official/sub/img/material/dl/logo/title/logo_v4.png>
+<img src=https://github.com/Pabl06/YKWPuniPuniAssets/blob/main/logo.png>
 </p>
 
 ## What is this?
